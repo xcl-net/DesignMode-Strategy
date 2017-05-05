@@ -81,8 +81,6 @@ namespace 商场管理软件01简单计算
             label4.Text = "0.00";
         }
 
-
-
         #region 使用简单工厂方式
         private void button1_Click(object sender, EventArgs e)
         {
