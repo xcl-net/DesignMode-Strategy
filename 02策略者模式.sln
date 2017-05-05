@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "基本代码", "基本代码\基本代码.csproj", "{D51E04C1-70D6-4233-B8EA-F3F2FE10A7B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "商场管理软件01简单计算", "商场管理软件01简单计算\商场管理软件01简单计算.csproj", "{46D31D50-FD0B-43F3-BBEC-7EABFC4AC6BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D51E04C1-70D6-4233-B8EA-F3F2FE10A7B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51E04C1-70D6-4233-B8EA-F3F2FE10A7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51E04C1-70D6-4233-B8EA-F3F2FE10A7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51E04C1-70D6-4233-B8EA-F3F2FE10A7B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D31D50-FD0B-43F3-BBEC-7EABFC4AC6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D31D50-FD0B-43F3-BBEC-7EABFC4AC6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D31D50-FD0B-43F3-BBEC-7EABFC4AC6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D31D50-FD0B-43F3-BBEC-7EABFC4AC6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
